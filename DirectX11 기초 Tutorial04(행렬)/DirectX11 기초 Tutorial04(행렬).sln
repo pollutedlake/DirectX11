@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DirectX11 기초 Tutorial04(행렬)", "DirectX11 기초 Tutorial04(행렬)\DirectX11 기초 Tutorial04(행렬).vcxproj", "{F4B490D5-33C1-41C2-9DC5-206136F8FA2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4B490D5-33C1-41C2-9DC5-206136F8FA2D}.Debug|x64.ActiveCfg = Debug|x64
+		{F4B490D5-33C1-41C2-9DC5-206136F8FA2D}.Debug|x64.Build.0 = Debug|x64
+		{F4B490D5-33C1-41C2-9DC5-206136F8FA2D}.Debug|x86.ActiveCfg = Debug|Win32
+		{F4B490D5-33C1-41C2-9DC5-206136F8FA2D}.Debug|x86.Build.0 = Debug|Win32
+		{F4B490D5-33C1-41C2-9DC5-206136F8FA2D}.Release|x64.ActiveCfg = Release|x64
+		{F4B490D5-33C1-41C2-9DC5-206136F8FA2D}.Release|x64.Build.0 = Release|x64
+		{F4B490D5-33C1-41C2-9DC5-206136F8FA2D}.Release|x86.ActiveCfg = Release|Win32
+		{F4B490D5-33C1-41C2-9DC5-206136F8FA2D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6769C265-E0E2-4DB9-8681-D04FDEC86D59}
+	EndGlobalSection
+EndGlobal
